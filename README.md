@@ -1,4 +1,4 @@
-# Java-training-camp-6-15-6-19-
+# Java-training-camp-8
 ### 扣丁学堂 Java训练营(6月15日——6月19日)
 
 ## 课程介绍
