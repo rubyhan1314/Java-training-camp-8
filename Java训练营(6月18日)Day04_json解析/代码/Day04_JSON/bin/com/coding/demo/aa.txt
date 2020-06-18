@@ -1,0 +1,1 @@
+{"name":"张三","age":28,"sex":"男性","salary":30000.88,"car":{"brand":"雪佛兰","model":"科迈罗","color":"黄色"},"books":[{"bookName":"十万个为啥"，"author":"王二狗","price":35.8},{"bookName":"西游记"，"author":"吴承恩","price":203.6}]}
